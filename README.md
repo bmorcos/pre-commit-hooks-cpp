@@ -55,7 +55,7 @@ found in the repo, however other arguments and particular files can specified.
 
 ## cppcheck
 
-This requires cpplint to be installed, e.g. `sudo apt install cppcheck`. The
+This requires cppcheck to be installed, e.g. `sudo apt install cppcheck`. The
 default setup enables warnings to be displayed and will check all C/C++ files
 and headers found in the repo, however other arguments and particular files can
 specified.
